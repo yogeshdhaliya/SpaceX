@@ -190,8 +190,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 - **GitHub**: [@yogeshdhaliya](https://github.com/yogeshdhaliya)
-- **LinkedIn**: [Connect with me](https://linkedin.com/in/yogeshdhaliya)
-- **Email**: [Your Email]
+- **LinkedIn**: [Connect with me]([https://linkedin.com/in/yogeshdhaliya](https://www.linkedin.com/in/yogeshdhaliyaa/))
+- **Email**: yogeshdhaliyaa@gmail.com
 
 ---
 

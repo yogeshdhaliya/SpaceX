@@ -187,12 +187,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Coursera** for the comprehensive learning platform
 - **Wikipedia** community for maintaining detailed launch records
 
-## 📞 Contact
-
-- **GitHub**: [@yogeshdhaliya](https://github.com/yogeshdhaliya)
-- **LinkedIn**: [Connect with me]([https://linkedin.com/in/yogeshdhaliya](https://www.linkedin.com/in/yogeshdhaliyaa/))
-- **Email**: yogeshdhaliyaa@gmail.com
-
 ---
 
 ⭐ **Star this repository if you found it helpful!** ⭐
